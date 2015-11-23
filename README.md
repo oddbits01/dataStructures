@@ -1,2 +1,2 @@
-# dataStructures
-sample snippets and exercise solutions for the data structures series
+# ODDbits repository
+sample snippets and exercise solutions from the youtube channel
